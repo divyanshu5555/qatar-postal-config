@@ -1,0 +1,6 @@
+postal:
+  billing:
+    default-fee: 99.99
+  kafka:
+    topic:
+      booking-created: parcel-booked-topic
